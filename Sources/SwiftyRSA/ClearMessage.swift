@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import SwiftyRSA_ObjC
 
 public class ClearMessage: Message {
     
